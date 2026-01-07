@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/header.png" alt="Header Image" width="100%">
+  <img src="![pixels10](https://github.com/user-attachments/assets/dd2615a6-9917-4e32-9001-7fd4c53a0ced)
+" alt="Header Image" width="100%">
 </div>
 
 <h1 align="center">👋 Hi, I'm ColdWistler</h1>
