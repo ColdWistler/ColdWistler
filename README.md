@@ -6,25 +6,46 @@
 
 ## 🚀 About Me
 
-Passionate developer with a diverse range of interests spanning machine learning, web development, and systems programming. I love exploring new technologies and building things that solve real problems.
+Passionate developer with a focus on AI/ML and computer vision. I love exploring cutting-edge technologies and building intelligent systems that solve real-world problems.
+
+## 🤖 AI & Machine Learning Projects
+
+### [WildFire Alert System UAV](https://github.com/ColdWistler/WildFire-AlertSystemUAV)
+AI-powered wildfire detection system using UAV technology for early warning and prevention.
+
+### [ObjectDetection](https://github.com/ColdWistler/ObjectDetection)
+Computer vision project focused on object detection using GNU AGPL v3.0.
+
+### [CV_DevnagriDetection](https://github.com/ColdWistler/CV_DevnagriDetection)
+Devanagari script detection using computer vision techniques.
+
+### [Genetic Algorithm](https://github.com/ColdWistler/Genetic-Algorithm)
+Implementation of genetic algorithms for optimization problems.
+
+### [SyntheticDataAnalytics](https://github.com/ColdWistler/SyntheticDataAnalytics)
+Advanced analytics on synthetic datasets for ML model training.
+
+### [Kalimati Machine Learning](https://github.com/ColdWistler/KalimatiMachineLearning-)
+Machine learning project focusing on local market data analysis.
+
+### [Big Data Assignment 2](https://github.com/ColdWistler/BigDataAssignment2)
+Big data processing and analytics implementation.
 
 ## 🔧 Tech Stack & Skills
 
-- **Languages**: Java, Python, Dart, JavaScript/HTML/CSS, C, Lua
+- **Languages**: Python, Java, Dart, JavaScript/HTML/CSS, C, Lua
+- **ML/AI**: TensorFlow, PyTorch, Computer Vision, Genetic Algorithms
 - **Frameworks & Tools**: Flutter/Dart, Jupyter Notebook, Linux/Arch
-- **Specialties**: Machine Learning, Computer Vision, Algorithm Development, Mobile Apps
+- **Specialties**: Machine Learning, Computer Vision, Algorithm Development, Big Data Analytics
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ColdWistler&show_icons=true&theme=radical)
 
-## 🌟 Featured Projects
+## 🌟 Other Notable Projects
 
 ### [Idiot's Guide to Programming](https://github.com/ColdWistler/Idiot-s-Guide-to-Programming.)
 A comprehensive guide and documentation for learning programming languages.
-
-### [ObjectDetection](https://github.com/ColdWistler/ObjectDetection)
-Computer vision project focused on object detection using GNU AGPL v3.0.
 
 ### [VisiNepal](https://github.com/ColdWistler/VisiNepal)
 Java-based application with community contributions.
@@ -40,15 +61,6 @@ My personal Arch Linux configuration and dotfiles.
 - **GitHub**: [ColdWistler](https://github.com/ColdWistler)
 - **Followers**: 4 amazing people
 - **Following**: 3 inspiring developers
-
-## 📈 Activity
-
-I'm constantly learning and experimenting with new technologies. My recent work includes:
-
-- Machine Learning projects (Jupyter Notebooks)
-- Mobile app development (Flutter/Dart)
-- System configuration (Arch Linux customization)
-- Algorithm implementations (Genetic Algorithms, Sorting)
 
 ---
 
