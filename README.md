@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="Header Banner" width="100%">
 </div>
 
-<h1 align="center">👋 Hi, I'm ColdWistler</h1>
+<h1 align="center">👋 Hi, I'm SoggyGenus</h1>
 <h3 align="center">🤖 AI/ML Enthusiast | 💻 Full Stack Developer | 🌟 Professional Dumbass</h3>
 
 <p align="center">
