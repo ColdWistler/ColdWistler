@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="Header GIF" width="100%">
+  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="Header Banner" width="100%">
 </div>
 
 <h1 align="center">👋 Hi, I'm ColdWistler</h1>
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="About GIF" width="400">
+  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels6.gif" alt="About GIF" width="400">
 </div>
 
 Passionate AI/ML developer with a focus on computer vision, intelligent systems, and real-world problem solving. I believe in learning by doing and embrace the journey of continuous improvement.
@@ -26,7 +26,7 @@ Passionate AI/ML developer with a focus on computer vision, intelligent systems,
 ## 🤖 AI & Machine Learning Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="AI Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/wallhaven-gwjq3d.jpg" alt="AI Banner" width="100%">
 </div>
 
 <table>
@@ -95,7 +95,7 @@ Passionate AI/ML developer with a focus on computer vision, intelligent systems,
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="Tech Stack GIF" width="600">
+  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels8.gif" alt="Tech Stack GIF" width="600">
 </div>
 
 ### 🤖 AI/ML Technologies
@@ -172,7 +172,7 @@ My personalized Arch Linux configuration - rice, themes, and productivity tools.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels10.gif" alt="Footer GIF" width="300">
+  <img src="https://raw.githubusercontent.com/ColdWistler/ColdWistler/main/assets/pixels3.gif" alt="Footer GIF" width="300">
 </div>
 
 <div align="center">
