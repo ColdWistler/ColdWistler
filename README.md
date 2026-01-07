@@ -35,24 +35,24 @@ Passionate AI/ML developer with a focus on computer vision, intelligent systems,
       <h3>🔥 WildFire Alert System</h3>
       <p><strong>AI-powered wildfire detection</strong> using UAV technology for early warning and prevention systems.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square&logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
       </p>
       <a href="https://github.com/ColdWistler/WildFire-AlertSystemUAV">
-        <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+        <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github&logoColor=white" alt="View Project">
       </a>
     </td>
     <td width="50%">
       <h3>👁️ Object Detection</h3>
       <p><strong>Advanced computer vision</strong> system for real-time object detection and classification.</p>
       <p>
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white">
-        <img src="https://img.shields.io/badge/AGPL_v3.0-000000?style=for-the-badge">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white">
+        <img src="https://img.shields.io/badge/AGPL_v3.0-000000?style=flat-square">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
       </p>
       <a href="https://github.com/ColdWistler/ObjectDetection">
-        <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+        <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github&logoColor=white" alt="View Project">
       </a>
     </td>
   </tr>
@@ -61,22 +61,22 @@ Passionate AI/ML developer with a focus on computer vision, intelligent systems,
       <h3>🔤 Devanagri Detection</h3>
       <p><strong>Computer vision</strong> for Devanagari script detection and recognition systems.</p>
       <p>
-        <img src="https://img.shields.io/badge/OCR-FF6B6B?style=for-the-badge&logo=tesseract&logoColor=white">
-        <img src="https://img.shields.io/badge/ML-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white">
+        <img src="https://img.shields.io/badge/OCR-FF6B6B?style=flat-square&logo=tesseract&logoColor=white">
+        <img src="https://img.shields.io/badge/ML-3776AB?style=flat-square&logo=scikitlearn&logoColor=white">
       </p>
       <a href="https://github.com/ColdWistler/CV_DevnagriDetection">
-        <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+        <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github&logoColor=white" alt="View Project">
       </a>
     </td>
     <td width="50%">
       <h3>🧬 Genetic Algorithm</h3>
       <p><strong>Optimization algorithms</strong> implementing genetic approaches for complex problem solving.</p>
       <p>
-        <img src="https://img.shields.io/badge/Algorithm-00BCD4?style=for-the-badge">
-        <img src="https://img.shields.io/badge/Evolution-4CAF50?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Algorithm-00BCD4?style=flat-square">
+        <img src="https://img.shields.io/badge/Evolution-4CAF50?style=flat-square">
       </p>
       <a href="https://github.com/ColdWistler/Genetic-Algorithm">
-        <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+        <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github&logoColor=white" alt="View Project">
       </a>
     </td>
   </tr>
@@ -100,28 +100,75 @@ Passionate AI/ML developer with a focus on computer vision, intelligent systems,
 
 ### 🤖 AI/ML Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Transformers-FF6B35?style=flat-square&logo=transformers&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/ONNX-005CEC?style=flat-square&logo=onnx&logoColor=white">
+</p>
+
+### 🔥 Advanced AI Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Burn-CE422B?style=flat-square&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Tch-FF5722?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/bandle/Candle-FFC107?style=flat-square&logo=rust&logoColor=black">
+  <img src="https://img.shields.io/badge/LLaMA-00BCD4?style=flat-square&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF4757?style=flat-square&logo=stable-diffusion&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-FFC107?style=flat-square&logo=ultralytics&logoColor=black">
+</p>
+
+### 🦀 Systems Programming
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Zig-0F1D2B?style=flat-square&logo=zig&logoColor=white">
 </p>
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white">
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/CI_CD-2496ED?style=flat-square&logo=gitlab&logoColor=white">
 </p>
 
 ### 🔧 Tools & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+### 🗄️ Databases & Data
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 </p>
 
 
@@ -145,9 +192,9 @@ My personalized Arch Linux configuration - rice, themes, and productivity tools.
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ColdWistler)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-chaudhary-19653b33b)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csaugat862@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ColdWistler)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-chaudhary-19653b33b)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:csaugat862@gmail.com)
 
 </div>
 
